@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">King Immanuel</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">This is a test for the string
+    \n resource for all who can understand this
+    \n context</string>
+    <string name="what_is_your_nick_name">what is your nick name</string>
+
 </resources>
